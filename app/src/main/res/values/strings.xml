@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExpertValidation</string>
+    <string name="next">Next</string>
+    <string name="save">Save</string>
+    <string name="username">Username</string>
+    <string name="no_results">No images to validate</string>
+    <string name="sample_result">Larvae : 100.00%\nNot Larvae : 100.00%</string>
+</resources>
